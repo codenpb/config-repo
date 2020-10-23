@@ -1,6 +1,6 @@
 x: devValue
-spring.datasource.url: jdbc:mysql://localhost:3306/mr_nie
-spring.datasource.driver-class-name: com.mysql.cj.jdbc.Driver
-spring.datasource.username: root
-spring.datasource.password: qwe123
+datasource.url: jdbc:mysql://localhost:3306/mr_nie
+datasource.driver-class-name: com.mysql.cj.jdbc.Driver
+datasource.username: root
+datasource.password: qwe123
 mybatis.mapperLocations: classpath*:**/mappers/*.xml
