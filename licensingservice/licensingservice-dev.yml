@@ -4,3 +4,4 @@ datasource.driver-class-name: com.mysql.cj.jdbc.Driver
 datasource.username: root
 datasource.password: qwe123
 mybatis.mapperLocations: classpath*:**/mappers/*.xml
+666: 6
